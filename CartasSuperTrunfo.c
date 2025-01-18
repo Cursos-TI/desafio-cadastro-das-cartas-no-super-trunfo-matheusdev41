@@ -95,7 +95,7 @@ int  exibirCartaUM(){
 	printf("Numero de pontos turisticos da cidade1: %d\n\n", nPontosTuristicos1);
 	
 	printf("Densidade: %.2f\n\n", densidade1);
-	printf("PIB per Capita: %.2f\n\n", percapta1);
+	printf("PIB per Capita: %.2f\n", percapta1);
 	
 	printf("Super poder: %.2f\n\n", superPoder1);
 
